@@ -4,8 +4,6 @@
 
 _Please insert an x in the square brackets above to mark the assignment as submitted!_
 
-Due the night of September 20th at midnight!
-
 ## Instructions
 The homework pdf has all the basic instructions, but here are some additional guidelines:
  - [ ] Code for Problem 1 should be done in the `Prob1.py` file already in the repository
